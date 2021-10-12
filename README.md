@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @saloni-bloopark
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Saloni
+- 👀 I’m interested in software development, technical writing, editing and more!
+- 🌱 I’m currently learning Hotjar.
+- 💞️ I’m looking to collaborate on current and exciting projects.
 - 📫 How to reach me salonivermax@gmail.com
 
 <!---
